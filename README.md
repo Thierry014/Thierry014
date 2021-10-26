@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, learning and sporting 
 - 🌱 I’m currently learning Odoo ERP programming, React.js, Node.js, API coding,
 -    python programming (oop), data analysis and machine learning skills!
-- 💞️ I’m looking to collaborate on full-stack odoo projects and pyhton data analysis projects!
+- 💞️ I’m looking to collaborate on full-stack odoo projects and pyhton based programming projects!
 - 📫 How to reach me =>send email to jlf4022163@gmail.com to connect to me
 
 <!---
